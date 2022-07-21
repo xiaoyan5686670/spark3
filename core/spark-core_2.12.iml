@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/scala" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/scala-2.12" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/target/extra-resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

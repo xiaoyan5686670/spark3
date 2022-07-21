@@ -9,6 +9,8 @@
     <file url="file://$PROJECT_DIR$/common/network-common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/network-shuffle/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/network-shuffle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/network-yarn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/network-yarn/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/sketch/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/sketch/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/tags/src/main/java" charset="UTF-8" />
@@ -40,6 +42,8 @@
     <file url="file://$PROJECT_DIR$/mllib/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/repl/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/repl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource-managers/yarn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource-managers/yarn/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sql/catalyst/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sql/catalyst/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sql/core/src/main/java" charset="UTF-8" />
