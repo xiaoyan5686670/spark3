@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/mllib/spark-mllib_2.12.iml" filepath="$PROJECT_DIR$/mllib/spark-mllib_2.12.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/network-common/spark-network-common_2.12.iml" filepath="$PROJECT_DIR$/common/network-common/spark-network-common_2.12.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/network-shuffle/spark-network-shuffle_2.12.iml" filepath="$PROJECT_DIR$/common/network-shuffle/spark-network-shuffle_2.12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/network-yarn/spark-network-yarn_2.12.iml" filepath="$PROJECT_DIR$/common/network-yarn/spark-network-yarn_2.12.iml" />
       <module fileurl="file://$PROJECT_DIR$/repl/spark-repl_2.12.iml" filepath="$PROJECT_DIR$/repl/spark-repl_2.12.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/sketch/spark-sketch_2.12.iml" filepath="$PROJECT_DIR$/common/sketch/spark-sketch_2.12.iml" />
       <module fileurl="file://$PROJECT_DIR$/external/kafka-0-10-sql/spark-sql-kafka-0-10_2.12.iml" filepath="$PROJECT_DIR$/external/kafka-0-10-sql/spark-sql-kafka-0-10_2.12.iml" />
@@ -27,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/external/kafka-0-10-token-provider/spark-token-provider-kafka-0-10_2.12.iml" filepath="$PROJECT_DIR$/external/kafka-0-10-token-provider/spark-token-provider-kafka-0-10_2.12.iml" />
       <module fileurl="file://$PROJECT_DIR$/tools/spark-tools_2.12.iml" filepath="$PROJECT_DIR$/tools/spark-tools_2.12.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/unsafe/spark-unsafe_2.12.iml" filepath="$PROJECT_DIR$/common/unsafe/spark-unsafe_2.12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resource-managers/yarn/spark-yarn_2.12.iml" filepath="$PROJECT_DIR$/resource-managers/yarn/spark-yarn_2.12.iml" />
     </modules>
   </component>
 </project>

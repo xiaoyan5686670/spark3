@@ -1,2 +1,2 @@
-Spark 3.3.0 built for Hadoop 2.6.0-cdh5.11.1
+Spark 3.3.0 (git revision 4995142) built for Hadoop 2.6.0-cdh5.11.1
 Build flags: -Phive -Phive-thriftserver -Pmesos -Pyarn -Pkubernetes -Phadoop-2 -Dhadoop.version=2.6.0-cdh5.11.1 -Dscala.version=2.12.15 -X
